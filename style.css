@@ -1,0 +1,29 @@
+body {
+  min-height: 3000px;
+}
+
+#jumbotron {
+  padding-top: 9rem;
+  background-color: rgb(57, 56, 56);
+  color: #ffff;
+}
+
+#gallery {
+  background-color: rgb(87, 86, 86);
+}
+
+#gallery h2 {
+  color: #ffff;
+}
+
+#contact a {
+  color: red;
+}
+
+#about {
+  padding-top: 8rem;
+}
+
+#gallery {
+  padding-top: 5rem;
+}
